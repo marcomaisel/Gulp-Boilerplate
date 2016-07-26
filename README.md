@@ -1,6 +1,6 @@
 # Gulp Frontend Boilerplate
 
-Easy to use Frontend Boilerplate for faster starting a new web project.
+Easy to use Frontend Boilerplate for building web applications.
 
 ## Features
 
@@ -10,7 +10,7 @@ Easy to use Frontend Boilerplate for faster starting a new web project.
 - [Browsersync][browsersync] for automatically reloading the page on a local server.
 - [CSSNano][cssnano], [UglifyJS][uglifyjs], and [ImageMin][imagemin] for compression.
 
-## Dependencies
+## Prerequisites
 
 [npm][npm-install] must be installed. 
 
