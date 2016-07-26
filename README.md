@@ -1,6 +1,6 @@
 # Gulp Frontend Boilerplate
 
-========================================
+Easy to use Frontend Boilerplate for faster starting a new web project.
 
 ## Features
 
