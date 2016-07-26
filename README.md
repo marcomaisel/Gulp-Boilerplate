@@ -9,6 +9,7 @@ Easy to use Frontend Boilerplate for building web applications.
 - [Autoprefixer][autoprefixer] for automatic browser prefixes.
 - [Browsersync][browsersync] for automatically reloading the page on a local server.
 - [CSSNano][cssnano], [UglifyJS][uglifyjs], and [ImageMin][imagemin] for compression.
+- [Uglify][uglify] & [Concat][concat] to minify and concatenate/merging JS files into one file.
 
 ## Prerequisites
 
@@ -54,3 +55,5 @@ Builds the site into the `dist` directory.
 [npm-install]: https://nodejs.org/en/download/
 [uglifyjs]: https://github.com/mishoo/UglifyJS
 [scss]: http://sass-lang.com/
+[concat]: https://www.npmjs.com/package/gulp-concat
+[uglify]: https://github.com/terinjokes/gulp-uglify
